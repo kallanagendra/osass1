@@ -4,6 +4,7 @@
 #include <errno.h>
 #define MAX 20
  
+
 int top=-1,stack[MAX];
 void push();
 int pop();

@@ -1,0 +1,12 @@
+Description:
+The main aim of the program  is to understand the  basic system calls
+Command line arguments:
+-h:HELP
+-i: For taking input
+-o: For output 
+STEPS:
+1)Run make
+2)Run File with necessary arguments (./logParse)
+run ./logParse -i input.dat -o (ouput file name)
+
+To clear the object files: make clean
